@@ -1,0 +1,5 @@
+A. Appel, “Some techniques for shading machine renderings of solids,” Proceedings of the April 30--May 2, 1968, spring joint computer conference on - AFIPS '68 (Spring), 1968.
+
+B. T. Phong, “Illumination for computer generated pictures,” Communications of the ACM, vol. 18, no. 6, pp. 311–317, Jan. 1975. 
+
+J. T. Kajiya, “The rendering equation,” ACM SIGGRAPH Computer Graphics, vol. 20, no. 4, pp. 143–150, 1986. 

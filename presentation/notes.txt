@@ -1,0 +1,6 @@
+visibility and shading
+
+path tracing 
+raytracing 
+rasterization
+scanline rendering
